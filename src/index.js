@@ -145,6 +145,8 @@ const playRaceEnginer = async (personagem1, personagem2) => {
 
 }
 
+
+//Declare the Winner
 async function declareWinner(personagem1, personagem2) {
     console.log('Resultado final:')
     console.log(`${player1.nome}: ${player1.pontos} ponto(s)`)
