@@ -101,3 +101,4 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+<h3>ATIVIDADE FEITA EM CURSO</h3>
